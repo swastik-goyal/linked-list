@@ -1,0 +1,7 @@
+README.md
+linked-list.py
+setup.py
+Swastik.egg-info/PKG-INFO
+Swastik.egg-info/SOURCES.txt
+Swastik.egg-info/dependency_links.txt
+Swastik.egg-info/top_level.txt
